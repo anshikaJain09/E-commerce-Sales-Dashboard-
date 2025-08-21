@@ -34,3 +34,4 @@ Features/Highlights
 📌 Improve customer retention & maximize revenue
 
 Screenshot/Demo
+Dashboard Preview (https://github.com/anshikaJain09/E-commerce-Sales-Dashboard-/blob/main/dashboard%20ss.png)
